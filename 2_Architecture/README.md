@@ -5,3 +5,6 @@
 
 
 ## Behavioural Diagram
+
+
+![behav dia](https://user-images.githubusercontent.com/101051555/168416643-d0f60cf2-f9f4-4634-8f83-f06e28444cf0.PNG)
